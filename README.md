@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Live site]()
-- Solution URL: [Solution on FEM]()
+- Live Site URL: [Live site](https://rutc9.github.io/FEM-tip-calculator-app-main/)
+- Solution URL: [Solution on FEM](https://www.frontendmentor.io/solutions/tip-calculator-app-PpiQ-KnzX)
 
 ### Built with
 
